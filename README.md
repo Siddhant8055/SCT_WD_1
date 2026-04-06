@@ -29,6 +29,7 @@ This project is a responsive landing page created using HTML, CSS, and JavaScrip
 - index.html
 - style.css
 - script.js
+- imges.png
 
 ## Project Screenshot
 
