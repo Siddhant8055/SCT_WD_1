@@ -33,7 +33,7 @@ This project is a responsive landing page created using HTML, CSS, and JavaScrip
 
 ## Project Screenshot
 
-![Landing Page Screenshot](images/screenshot.png)
+![Landing Page Screenshot](images/screenshot1.png)
 
 
 ## Author
