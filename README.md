@@ -30,5 +30,10 @@ This project is a responsive landing page created using HTML, CSS, and JavaScrip
 - style.css
 - script.js
 
+## Project Screenshot
+
+![Landing Page Screenshot](images/screenshot.png)
+
+
 ## Author
 Siddhant Parit
